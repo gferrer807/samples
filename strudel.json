@@ -5,5 +5,8 @@
     ],
     "darkfantasy_chopped": [
         "sounds/dark_fantasy.wav"
+    ],
+    "darkfantasy_chopped_mp3": [
+        "sounds/dark_fantasy.mp3"
     ]
 }
