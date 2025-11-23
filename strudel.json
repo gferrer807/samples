@@ -3,10 +3,10 @@
     "darkfantasy": [
         "sounds/Fooling around on Yamaha CS01 (1).mp3"
     ],
-    "darkfantasy_chopped": [
+    "dfchopped": [
         "sounds/dark_fantasy.wav"
     ],
-    "darkfantasy_chopped_mp3": [
+    "dfchoppedmp3": [
         "sounds/dark_fantasy.mp3"
     ]
 }
