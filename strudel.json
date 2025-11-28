@@ -11,5 +11,8 @@
     ],
     "jnglpad1": [
         "sounds/jnglpad1.wav"
+    ],
+    "imheap": [
+        "sounds/imheap.wav"
     ]
 }
