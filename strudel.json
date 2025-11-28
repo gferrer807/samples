@@ -26,5 +26,8 @@
     ],
     "plof": [
         "sounds/plof.wav"
+    ],
+    "rllyst": [
+        "sounds/rllyst.wav"
     ]
 }
