@@ -14,5 +14,17 @@
     ],
     "imheap": [
         "sounds/imheap.wav"
+    ],
+    "rllycl": [
+        "sounds/rllycl.wav"
+    ],
+    "rllyk": [
+        "sounds/rllyk.wav"
+    ],
+    "rllyh": [
+        "sounds/rllyh.wav"
+    ],
+    "plof": [
+        "sounds/plof.wav"
     ]
 }
